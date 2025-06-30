@@ -62,28 +62,13 @@ Scikit-Image
 
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install pygame scikit-image
+
 ▶️ Run the Game
-bash
-Copy
-Edit
 python main.py
-📸 Screenshots
-Add screenshots here showing:
 
-Start screen
-
-In-game grid view
-
-Game Over overlay
 
 📂 File Structure
-bash
-Copy
-Edit
 memory_match_game/
 ├── main.py               # Entry point
 ├── game/
